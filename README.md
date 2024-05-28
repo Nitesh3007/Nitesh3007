@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh3007&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh3007" /> </p>
 
+<img src="https://github.com/Nitesh3007/Nitesh3007/blob/main/Monkey_Kid_Coding.gif" align=left>
+
 - 👨🏻‍🎓 Currently pursuing **B.Tech from National Institute of Technology Raipur (2021-2025)**
 
 - 🌱 I’m currently learning **Data Analysis**
