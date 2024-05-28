@@ -11,13 +11,13 @@
 - 🌱 I’m currently learning **Data Analysis**
 
   
-- :neutral_face: I have a **love/hate** relationship with **Programming*
+- :neutral_face: I have a **love/hate** relationship with **Programming**
   
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
   
 - 😄 Pronouns: **Coder/Developer**
   
-- 💬 Ask me about **HTML / CSS / CP**
+- 💬 Ask me about **Competetive Programming**
 
 - ⚡ Fun fact **I started coding before I could drive.**
 
