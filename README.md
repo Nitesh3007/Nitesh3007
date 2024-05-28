@@ -10,7 +10,6 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 📚 Schooled from **Krishna Public School,Bhilai - PCM + CS -91.2%**
   
 - :neutral_face: I have a **love/hate** relationship with **Programming*
   
@@ -20,10 +19,10 @@
   
 - 💬 Ask me about **HTML / CSS / CP**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I started coding before I could drive.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="right">
 <a href="https://linkedin.com/in/nitesh-patel-b40545232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh-patel-b40545232" height="30" width="40" /></a>
 <a href="https://instagram.com/notniteshpatell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notniteshpatell" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/itachi3007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itachi3007" height="30" width="40" /></a>
