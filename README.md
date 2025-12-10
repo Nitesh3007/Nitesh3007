@@ -4,11 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh3007&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh3007" /> </p>
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saatvik333/saatvik333/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saatvik333/saatvik333/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/saatvik333/saatvik333/output/max-green-grid-dark.svg" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/saatvik333/saatvik333/output/max-green-grid-light.svg" />
+  <img alt="max-green-contributions" src="max-green-grid-light.svg" />
 </picture>
+
 
 
 
